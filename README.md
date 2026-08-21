@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # Hi there, I'm Bôn Mộng Mơ 👋
@@ -125,19 +124,14 @@ Development
 ├── FastAPI
 └── Databases
 ```
-````
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=bonlv2000&color=76E033&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -147,9 +141,7 @@ Development
 
 <div align="left">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_LINK)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_TELEGRAM_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bonlv2000)
 
 </div>
 
@@ -157,11 +149,10 @@ Development
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=76E033&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=bonlv2000&color=76E033&style=for-the-badge&label=PROFILE+VIEWS)
 
 ### 💙 Bôn Mộng Mơ
 
 _"Explore • Automate • Build • Share"_
 
 </div>
-```
